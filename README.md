@@ -10,3 +10,7 @@ Example:
 
 Restrictions:
 - Notifications are not supported
+
+Requirements:
+- Python 3
+- GNS3 2.0

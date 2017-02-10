@@ -23,4 +23,4 @@ if version is not None:
     print()
     (status, data) = api.request('POST', '/v2/version', {"version": version})
     print('POST /v2/version input={{"version": "{}"}}'.format(version))
-print(status, data)
+    print(status, data)
